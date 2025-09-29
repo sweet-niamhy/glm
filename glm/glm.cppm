@@ -1094,6 +1094,7 @@ export namespace glm {
 	using glm::isnan;
 	using glm::ldexp;
 	using glm::length;
+	using glm::length_t;
 	using glm::lessThan;
 	using glm::lessThanEqual;
 	using glm::log;
